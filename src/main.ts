@@ -3,7 +3,7 @@ import "./style.css";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
-    변경 전
+    변경하였습니다
     <button id="counter">0</button>
   </div>
 `;
